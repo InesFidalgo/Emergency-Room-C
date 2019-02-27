@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1432809411 source:c:\users\inês fidalgo\desktop\er\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+	<time.h>
+
+1430098903 c:\users\inês fidalgo\desktop\er\er.h
+
+1432808047 c:\users\inês fidalgo\desktop\er\test.h
+
+1432808345 source:c:\users\inês fidalgo\desktop\er\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+	<time.h>
+
+1433277570 source:c:\users\inês fidalgo\desktop\novo\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"test.h"
+
+1433277690 c:\users\inês fidalgo\desktop\novo\test.h
+
+1433277647 source:c:\users\inês fidalgo\desktop\novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+
+1433282843 source:c:\users\inês fidalgo\desktop\projecto ppp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+
+1433277690 c:\users\inês fidalgo\desktop\projecto ppp\test.h
+
+1433281457 source:c:\users\inês fidalgo\desktop\projecto ppp\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"test.h"
+
